@@ -1,10 +1,10 @@
-title: Your name or name of site
-description: A website with a blog
+title: JC'S Typo Design
+description: A website with a typography
 footer_text: Copyright 2021 Your name
-header_feature_image: ../uploads/placeholder1.jpg
+header_feature_image: ../uploads/kristopher-roller-zepnjqycr4u-unsplash.jpg
 header_text: My Dream Blog
 header_text_color: "#ffffff"
-bannerheight: 20vmax
+bannerheight: 40vmax
 navbarheight: 55px
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
