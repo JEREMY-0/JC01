@@ -1,20 +1,16 @@
 ---
-layout: page
+header_feature_image: /uploads/log.jpg
 title: About
+image: ../uploads/img_5845.png
+subtitle: All about JC
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+layout: page
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
-show: false
+show: true
 ---
+ Hello. My name is Jeremy Christopher and welcome to JC World. On this website, you will be able to explore the different concepts and ideas of specific fashion features. From time to time, I will upload some of my views on what is going on fashion-wise. Anyways enough about this website. 
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
-
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+I am a 19 -year -old boy who is currently studying at Oxford Brookes University in my second year. I grew up in London, Hackney, and have lived there ever since. I have an amazing mother, a caring father, and two younger sisters who mean the world to me. I am currently aiming to become a very successful journalist and this blog is my first step. Feel free to share comments and interact. Have a good day!
