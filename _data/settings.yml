@@ -1,13 +1,13 @@
-title: JC'S Typo Design
-description: A website with unique typography
+title: JC'S World
+description: "My insight "
 footer_text: Copyright 2021 Jeremy Christopher
-header_feature_image: ../uploads/kristopher-roller-zepnjqycr4u-unsplash.jpg
-header_text: My Dream Blog
+header_feature_image: ../uploads/tania-mousinho-ylpfe9ucake-unsplash.png
+header_text: Welcome to my blog
 header_text_color: "#46d8d8"
 bannerheight: 20vmax
 navbarheight: 55px
-logo: ../uploads/placeholder1.jpg
-favicon: /uploads/favicon.ico
+logo: ../uploads/black.png
+favicon: ../uploads/apple-touch-icon.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
