@@ -7,6 +7,6 @@ title_color: "#ffffff"
 caption: Glacier
 comments: false
 ---
-Hello everyone
+Hello everyone. Welcome to my website which isn't ready yet. Sorry.
 
 ![](../uploads/placeholder3.jpg)
