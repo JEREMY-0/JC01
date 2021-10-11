@@ -8,7 +8,7 @@ bannerheight: 20vmax
 navbarheight: 55px
 logo: ../uploads/black.png
 favicon: ../uploads/apple-touch-icon.png
-gridlayout: true
+gridlayout: false
 fixednavbar: false
 upzoom: true
 items: []
