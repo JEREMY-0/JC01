@@ -6,7 +6,7 @@ header_text: Welcome to JC'S World
 header_text_color: "#46d8d8"
 bannerheight: 20vmax
 navbarheight: 55px
-logo: ../uploads/black.png
+logo: ../uploads/artboard-1.png
 favicon: ../uploads/artboard-1.png
 gridlayout: false
 fixednavbar: false
