@@ -7,7 +7,7 @@ header_text_color: "#46d8d8"
 bannerheight: 20vmax
 navbarheight: 55px
 logo: ../uploads/black.png
-favicon: ../uploads/apple-touch-icon.png
+favicon: ../uploads/artboard-1.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
