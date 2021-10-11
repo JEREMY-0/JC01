@@ -29,4 +29,6 @@ Nike even went so far as to produce wings logo pins as novelty to tie in with th
 
 ![](../uploads/thumbnail_img_6325.png "Drip Sense")
 
-It is safe to say that Air Jordan 1's are one of the most popular sneakers right now and what is so amazing about them is that there are multiple versions to discover and try on. Over 100 different versions were produced in the last decade. My good friend Harry, in the photo above,  easily displays how great the Air Jordans look and how they compliment the rest if your outfit. For example, the red, white and black sneakers correspond with his jumper.
+It is safe to say that Air Jordan 1's are one of the most popular sneakers right now and what is so amazing about them is that there are multiple versions to discover and try on. Over 100 different versions were produced in the last decade. My good friend Harry, in the photo above,  easily displays how great the Air Jordans look and how they compliment the rest if your outfit. For example, the red, white and black sneakers correspond with his jumper. 
+
+Furthermore, many celebrities are following the trend and wearing the Air Jordans that suit their style. Not only has this trend reached out to the celebrity eye but all the basketball lovers have also adopted this trend which firstly expresses their passion for the sport and secondly to unintentionally advertise the branding in the real world.
