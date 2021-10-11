@@ -7,3 +7,5 @@ title_color: "#b165f1"
 comments: false
 ---
 The world of Anime is vey complex and as each day passes, more and more people are trying it out and end up getting hooked on it. There are countless anime shows that interest a wide ranged audience. Some see anime to be a childish concept which has no difference to normal cartoons, but others acknowledge anime to be a huge part of their lives.  Even now, anime has become so trendy that people are starting to show their love for it through clothing.
+
+![](../uploads/thumbnail_image0.png)
