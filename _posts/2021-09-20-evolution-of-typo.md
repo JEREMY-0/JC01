@@ -24,3 +24,9 @@ Fashion has become a huge part of our daily lives and continues to evolve time a
 What people have also recognised is the two different Jordan logos that appear on the sneakers. One of them is the iconic silhouette of Michael Jordan leaping in the air, but there is another one that appears on the side of the sneakers which consists of wings. These were flight inspired in order to signify his 'airborne endorsement'
 
 ![](../uploads/adrian-hernandez-az3rdxelcwu-unsplash.png "Airborne Endorsement")
+
+Nike even went so far as to produce wings logo pins as novelty to tie in with the aviation concept. This sense of narrative was carried over into the print commercials that featured Michael Jordan on a runaway, leveraging Moore's experience designing overtly thematic posters.
+
+![](../uploads/thumbnail_img_6325.png "Drip Sense")
+
+It is safe to say that Air Jordan 1's are one of the most popular sneakers right now and what is so amazing about them is that there are multiple versions to discover and try on. Over 100 different versions were produced in the last decade. My good friend Harry, in the photo above,  easily displays how great the Air Jordans look and how they compliment the rest if your outfit. For example, the red, white and black sneakers correspond with his jumper.
