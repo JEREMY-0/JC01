@@ -22,3 +22,15 @@ Furthermore, the shirt displayed is unique in the sense that it shares the same 
 ## Demon Slayer
 
 ![](../uploads/screenshot-2021-10-11-at-18.57.11.png)
+
+Demon Slayer is considered to be one of the greatest new generation animes and has risen greatly in terms of popularity and success. The storyline consists of a young boy named Tanjirou and in the first episode, his family is consumed by hideous creatures know as demons. In addition, his sister has also been turned into a demon but she is still aware of herself and has not lost control. Tanjirou sets out on a journey to turn his sister, the only survivor in his family, back to human. The black shirt in the image above shows the view of the protagonist (Tanjirou) from behind. The white shirt displays another character from the series.
+
+Many anime lovers decide to wear clothes like the ones above since the typography and design are completely unique and differ from everyone else's attire. The Japanese symbols and the logos of the anime itself are usually shown on the clothing which on its own stands out from everything else.
+
+# Why anime?
+
+The unique ability of anime to develop with its viewers is one of the key reasons why it has stood out from the rest and increased in popularity around the world. As a result, anime creators have begun to create content that caters to western preferences, as well ass producing anime in other countries where labour costs are low.
+
+Furthermore, many anime series tend to have better narratives than cartoons. This also links to how anime is very well known for its strong relatable characters. With the audience being able to relate to the characters, a sense of understanding and acceptance is created equally between the viewers.
+
+![](../uploads/img_6264.png)
