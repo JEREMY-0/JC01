@@ -34,3 +34,5 @@ The unique ability of anime to develop with its viewers is one of the key reason
 Furthermore, many anime series tend to have better narratives than cartoons. This also links to how anime is very well known for its strong relatable characters. With the audience being able to relate to the characters, a sense of understanding and acceptance is created equally between the viewers.
 
 ![](../uploads/img_6264.png)
+
+Let me know what your opinions are!
