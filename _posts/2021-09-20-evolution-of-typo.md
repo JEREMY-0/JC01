@@ -11,7 +11,7 @@ tags:
   - Photography
   - Design
 ---
-![](../uploads/moodz.png)
+![](../uploads/img_6335.png)
 
 ![]()
 
