@@ -27,7 +27,7 @@ Demon Slayer is considered to be one of the greatest new generation animes and h
 
 Many anime lovers decide to wear clothes like the ones above since the typography and design are completely unique and differ from everyone else's attire. The Japanese symbols and the logos of the anime itself are usually shown on the clothing which on its own stands out from everything else.
 
-# Why anime?
+## Why anime?
 
 The unique ability of anime to develop with its viewers is one of the key reasons why it has stood out from the rest and increased in popularity around the world. As a result, anime creators have begun to create content that caters to western preferences, as well ass producing anime in other countries where labour costs are low.
 
