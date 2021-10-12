@@ -3,7 +3,7 @@ layout: post
 title: Anime Spotlight
 date: 2021-10-11T16:44:39.236Z
 image: ../uploads/dex-ezekiel-ixdpz-ahfoi-unsplash.png
-title_color: "#b165f1"
+title_color: "#def178"
 comments: false
 tags:
   - Art
