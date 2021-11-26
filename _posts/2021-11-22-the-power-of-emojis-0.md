@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The power of Emojis!!
+title: 😊The power of Emojis!!😉
 date: 2021-11-22T11:50:47.700Z
 image: ../uploads/wu-yi-cucgsuayufc-unsplash.jpg
 title_color: "#c718cb"
@@ -11,8 +11,6 @@ tags:
   - Signage
   - Culture
 ---
-# **😊The Power of Emojis😉**
-
 Emojis have become an iconic and recurring aspect of our daily lives and have changed the way people communicate. Not only has it made texting much more interesting, but it also adds value to other things as well as describing or displaying complicated messages. 📲
 
 A set of 176 emojis for mobile phones and pagers was produced by NT Docomo, a Japanese cell phone carrier, in 1999. Emoji is a combination of the terms "picture" and "letter" in Japanese. The fact that the term "emoji" sounds like it was developed from the English word "emotion" is merely an odd coincidence.
