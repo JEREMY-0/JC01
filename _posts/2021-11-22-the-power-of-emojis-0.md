@@ -22,6 +22,8 @@ The year 2020 began with an average of 18.69 percent of tweets featuring at leas
 
 This development follows a pattern identified by Emjipedia earlier this year, in which emoji usage on Twitter has been continuously increasing for several years.
 
+![](../uploads/img_6784.jpg)
+
 ## 💥The Emoji Impact👀
 
 Emojis have been with us for a very long time and during this period, certain emojis have had their meanings altered, and now, when people see these emojis with a message or on social media, they interpret them differently. This is very similar to the theory of signs and signifiers by Ferdinand de Saussure.
