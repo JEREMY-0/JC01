@@ -6,7 +6,7 @@ image: ../uploads/george-pagan-iii-psifan6_z-k-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
-You're probably wondering why and how the Helvetica font is important and relevant. The truth is, this unique I font is nearly found everywhere and is used by most companies and groups for certain reasons.
+You're probably wondering why and how the Helvetica font is important and relevant. The truth is, this unique  font is nearly found everywhere and is used by most companies and groups for certain reasons.
 
 In 1960, the marketing director at Stempel changed the name of Die Hans Grotesk to Helvetica. The purpose of this alteration was to advertise the typeface on a global basis. Many hypotheses exist to explain why Helvetica is the typeface of choice for so many major corporations and designers.
 
