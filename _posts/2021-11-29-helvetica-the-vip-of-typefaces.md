@@ -18,6 +18,16 @@ Helvetica is a font that has existed for quite a long time and it is important t
 
 ## Neo Grotesques
 
-They are the first typeface family with various choices or weights and widths, created for varied means of prediction, and they were built with simplicity in mind. Their characteristics include less contrast more regularity as well as consistency in proportions and shapes.
+They are the first typeface family with various choices or weights and widths, created for varied means of prediction, and they were built with simplicity in mind. Their characteristics include less contrast more regularity as well as consistency in proportions and shapes. [fontsmith.com/blog/2019/06/24/a-guide-to-type-styles](fontsmith.com/blog/2019/06/24/a-guide-to-type-styles)
 
 There is a factor that highlights the difference between Grotesques and Neo Grotesques. Consisting of fonts like Franklin Gothic and Akzidenz Grotesk, Grotesques are the earliest, whereas Neo Grotesque typefaces consist of some of the most habitual typefaces like MS Sans Serif, Univers, Arial and Helvetica. These are all Neo Grotesque sans serif type fonts.
+
+### Logos
+
+Many ideas have been proposed to explain why Helvetica is the typeface of choice for so many major businesses and designers. 'A creative digital officer at McGarry Bowen has stated that the Helvetica font is recognizable by anyone who has used Facebook and other social media platforms and therefore looks welcoming to all and sundry.' <https://gillde.com/30-sample-of-helvetica-font-used-in-giant-brands/>
+
+Famous brands that use Helvetica include BMW, American Airlines, LG and other interesting logos. Other logos stand out and use the Helvetica font in a unique way. 
+
+Microsoft starts with Helvetica Black Oblique, the italic variety of the heavy typeface, and distinguishes itself with an unusual ligature between the "f" and the "t", as well as one between the "o" and "s" that cuts off the former. Similarly, Oral B 'totally transforms its base font through an interesting ligature between the r and a.'
+
+There are lots of fonts that exist right now and they are all different from each other. Whether it's the weight, contrast or width; heavy high or extended, all fonts are different and special in their own way.
