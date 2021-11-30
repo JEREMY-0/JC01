@@ -11,10 +11,6 @@ tags:
   - Photography
   - Design
 ---
-![]()
-
-![]()
-
 Fashion has become a huge part of our daily lives and continues to evolve time and time again. In this current day and age, fashion has diverged into many fields and each component has developed its own importance, for example, sneakers.
 
  To be very direct, there is one type of sneakers that is seen as 'a classic that evokes nostalgia and connects generations.’ The Air Jordans. These unique trainers have quickly turned into a storm of a trend but some people forget its rich history and as to why it is trending now. <https://www.theringer.com/nba/2020/5/4/21246027/air-jordan-1-nike-michael-jordan-sneaker-king-legacy-the-last-dance> 12.10.21
